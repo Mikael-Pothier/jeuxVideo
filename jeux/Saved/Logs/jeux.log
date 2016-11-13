@@ -264,4 +264,858 @@ LogInit: Object subsystem initialized
 [2016.11.13-21.07.24:856][  0]LogLoad: (Engine Initialization) Total time: 10.93 seconds
 [2016.11.13-21.07.24:856][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.08 seconds
 [2016.11.13-21.07.24:856][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2016.11.13-21.07.24:856][  0]LogExternalProfiler: Using externa
+[2016.11.13-21.07.24:856][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.13-21.07.24:866][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.13-21.07.24:866][  0]LogOcInput: OculusInput pre-init called
+[2016.11.13-21.07.24:888][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.13-21.07.25:131][  2]LogRenderer: Reallocating scene render targets to support 816x372 (Frame:2).
+[2016.11.13-21.07.25:265][  2]LogAssetRegistry: Asset discovery search completed in 4.2696 seconds
+[2016.11.13-21.07.25:265][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.13-21.07.25:265][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2016.11.13-21.08.09:363][330]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:205).
+[2016.11.13-21.08.10:494][458]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.11.13-21.08.11:297][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.28.29:850][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.28.37:483][914]LogActorFactory: Actor Factory created Cube
+[2016.11.13-21.28.38:283][996]LogActorFactory: Actor Factory created Cube
+[2016.11.13-21.28.41:742][373]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.13-21.28.42:467][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.29.41:228][913]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.13-21.29.41:938][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.31.35:552][503]LogSavePackage: Save=43.49ms
+[2016.11.13-21.31.35:552][503]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser1_Auto199F3BF8F485A0C7430D1A5803B3FB4A6.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Maps/Bowser1_Auto1.umap'
+[2016.11.13-21.31.35:553][503]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Maps/Bowser1_Auto1.umap
+[2016.11.13-21.31.35:555][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Bowser1' took 0.104
+[2016.11.13-21.31.35:555][503]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.104
+[2016.11.13-21.35.31:383][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.35.34:645][570]Cmd: DELETE
+[2016.11.13-21.35.34:645][570]Cmd: ACTOR DELETE
+[2016.11.13-21.35.34:808][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.13-21.35.34:829][570]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2016.11.13-21.35.35:674][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.35.38:415][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.35.38:475][906]LogSavePackage: Save=38.81ms
+[2016.11.13-21.35.38:475][906]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser1903562F648DF65E3188489B1C8613296.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.35.38:477][906]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.35.39:767][ 40]LogActorFactory: Actor Factory created Cube
+[2016.11.13-21.35.40:782][144]LogActorFactory: Actor Factory created Cube
+[2016.11.13-21.35.41:643][236]Cmd: DELETE
+[2016.11.13-21.35.41:643][236]Cmd: ACTOR DELETE
+[2016.11.13-21.35.41:643][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.13-21.35.41:659][236]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2016.11.13-21.35.45:823][691]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.11.13-21.35.46:635][770]Cmd: DELETE
+[2016.11.13-21.35.46:635][770]Cmd: ACTOR DELETE
+[2016.11.13-21.35.46:644][770]LogEditorActor: Deleted Actor: Brush
+[2016.11.13-21.35.46:666][770]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2016.11.13-21.35.52:730][465]LogActorFactory: Actor Factory created Cube
+[2016.11.13-21.35.53:284][527]LogActorFactory: Actor Factory created Cube
+[2016.11.13-21.36.30:118][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.37.18:247][813]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.13-21.37.18:841][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.38.05:135][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.42.14:507][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.42.16:399][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.42.17:296][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.42.17:297][714]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:42:17 AM)
+[2016.11.13-21.42.17:297][714]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.42.17:300][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003152s)
+[2016.11.13-21.42.17:302][714]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.42.17:303][714]LogPlayLevel: PIE: World Init took: (0.002321s)
+[2016.11.13-21.42.17:303][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.005730s)
+[2016.11.13-21.42.17:347][714]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.42.17:359][714]LogInit: FAudioDevice initialized.
+[2016.11.13-21.42.17:407][714]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.42.17:412][714]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.42.17
+[2016.11.13-21.42.17:412][714]LogWorld: Bringing up level for play took: 0.001898
+[2016.11.13-21.42.17:419][714]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2016.11.13-21.42.17:419][714]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.42.17:419][714]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.42.17:419][714]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.42.17:424][714]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.42.17:424][714]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.289
+[2016.11.13-21.42.27:890][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.42.29:362][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.42.56:148][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.43.10:363][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.13-21.43.10:926][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.43.56:306][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.13-21.43.58:223][733]Cmd: DELETE
+[2016.11.13-21.43.58:223][733]Cmd: ACTOR DELETE
+[2016.11.13-21.43.58:224][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.13-21.43.58:240][733]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2016.11.13-21.43.58:688][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.44.02:320][173]MapCheck: New page: Map Check
+[2016.11.13-21.44.02:342][173]Cmd: MAP REBUILD ALLVISIBLE
+[2016.11.13-21.44.02:343][173]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.11.13-21.44.02:387][173]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.11.13-21.44.02:398][173]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2016.11.13-21.44.02:405][173]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2016.11.13-21.44.03:031][173]LogLevel:Display: Export Material TexCoord Scales took 0.004 seconds.
+[2016.11.13-21.44.03:035][173]TextureStreamingBuild:Display: Build Texture Streaming took 0.005 seconds.
+[2016.11.13-21.44.03:051][173]LightingResults: New page: Lighting Build - Nov 13, 2016, 11:44:03 AM
+[2016.11.13-21.44.03:097][173]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.13-21.44.03:205][173]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.13-21.44.03:221][173]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.13-21.44.03:736][173]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.13-21.44.03:736][173]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6088
+[2016.11.13-21.44.13:554][173]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.11.13-21.44.13:554][173]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.13-21.44.13:554][173]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.13-21.44.13:554][173]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.13-21.44.13:554][173]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.13-21.44.13:554][173]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.13-21.44.13:701][173]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.13-21.44.13:701][173]MapCheck: New page: Bowser1 - Nov 13, 2016, 11:44:13 AM
+[2016.11.13-21.44.13:702][173]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.11.13-21.44.13:760][173]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 58.235ms to complete.
+[2016.11.13-21.44.13:782][173]LogEditorBuildUtils: Build time 0:11
+[2016.11.13-21.44.16:388][181]Job is a success!
+[2016.11.13-21.44.16:832][182]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.13-21.44.16:832][182]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.13-21.44.16:832][182]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.13-21.44.16:833][182]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.13-21.44.16:833][182]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.11.13-21.44.16:833][182]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.11.13-21.44.16:868][182]Lightmass on ARMEN-PC: 1.36 sec total, 157 ms importing, 31 ms setup, 278 ms photons, 855 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.81 sec total, 310 ms processing.
+[2016.11.13-21.44.16:902][182]LogStaticLightingSystem: Illumination: 13.4 sec (8 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2016.11.13-21.44.16:902][182]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.13-21.44.16:902][182]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.13-21.44.17:571][183]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.13-21.44.17:571][183]MapCheck: New page: Bowser1 - Nov 13, 2016, 11:44:17 AM
+[2016.11.13-21.44.17:631][183]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 59.999ms to complete.
+[2016.11.13-21.44.33:137][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.44.33:137][500]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:44:33 AM)
+[2016.11.13-21.44.33:137][500]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.44.33:141][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003684s)
+[2016.11.13-21.44.33:142][500]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.44.33:143][500]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2016.11.13-21.44.33:143][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.005470s)
+[2016.11.13-21.44.33:185][500]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.44.33:196][500]LogInit: FAudioDevice initialized.
+[2016.11.13-21.44.33:234][500]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.44.33:238][500]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.44.33
+[2016.11.13-21.44.33:238][500]LogWorld: Bringing up level for play took: 0.002030
+[2016.11.13-21.44.33:239][500]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.44.33:239][500]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.44.33:239][500]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.44.33:241][500]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.44.33:241][500]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.471
+[2016.11.13-21.44.46:482][957]Cmd: EDIT COPY
+[2016.11.13-21.44.46:799][990]Cmd: EDIT PASTE
+[2016.11.13-21.45.12:049][745]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2016.11.13-21.45.12:656][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.45.15:262][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.45.16:341][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.45.21:687][757]Cmd: DELETE
+[2016.11.13-21.45.21:687][757]Cmd: ACTOR DELETE
+[2016.11.13-21.45.21:687][757]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.13-21.45.21:703][757]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2016.11.13-21.45.22:336][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.45.23:021][907]Cmd: EDIT PASTE
+[2016.11.13-21.45.25:180][137]Cmd: TRANSACTION UNDO
+[2016.11.13-21.45.25:180][137]LogEditorTransaction: Undo Paste
+[2016.11.13-21.45.25:730][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.45.29:672][607]LogPhysics:Warning: Scale 'X=10.000 Y=10.000 Z=0.000' is not valid on object '/Game/ThirdPersonBP/Maps/Bowser1.Bowser1:PersistentLevel.Cube_8.StaticMeshComponent0 Cube'.
+[2016.11.13-21.45.29:672][607]LogPhysics:Warning: Scale 'X=10.000 Y=10.000 Z=0.000' is not valid on object '/Game/ThirdPersonBP/Maps/Bowser1.Bowser1:PersistentLevel.Cube_8.StaticMeshComponent0 Cube'.
+[2016.11.13-21.45.30:474][699]LogPhysics:Warning: Scale 'X=10.000 Y=10.000 Z=0.000' is not valid on object '/Game/ThirdPersonBP/Maps/Bowser1.Bowser1:PersistentLevel.Cube_8.StaticMeshComponent0 Cube'.
+[2016.11.13-21.45.30:474][699]LogPhysics:Warning: Scale 'X=10.000 Y=10.000 Z=0.000' is not valid on object '/Game/ThirdPersonBP/Maps/Bowser1.Bowser1:PersistentLevel.Cube_8.StaticMeshComponent0 Cube'.
+[2016.11.13-21.45.37:347][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.45.37:347][457]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:45:37 AM)
+[2016.11.13-21.45.37:347][457]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.45.37:350][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003006s)
+[2016.11.13-21.45.37:351][457]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.45.37:351][457]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2016.11.13-21.45.37:352][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004624s)
+[2016.11.13-21.45.37:393][457]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.45.37:405][457]LogInit: FAudioDevice initialized.
+[2016.11.13-21.45.37:440][457]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.45.37:443][457]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.45.37
+[2016.11.13-21.45.37:444][457]LogWorld: Bringing up level for play took: 0.001555
+[2016.11.13-21.45.37:444][457]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.45.37:444][457]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.45.37:444][457]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.45.37:446][457]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.45.37:446][457]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.266
+[2016.11.13-21.45.42:249][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.45.42:305][967]LogSavePackage: Save=32.33ms
+[2016.11.13-21.45.42:305][967]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser14B7B13BC44D23D4FCA0A59811AF3657D.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.45.42:307][967]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.45.42:886][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.45.46:790][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.45.47:178][494]Cmd: EDIT COPY
+[2016.11.13-21.45.47:904][575]Cmd: EDIT PASTE
+[2016.11.13-21.45.49:823][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.45.56:102][466]Cmd: EDIT PASTE
+[2016.11.13-21.46.13:766][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.46.16:676][595]MapCheck: New page: Map Check
+[2016.11.13-21.46.16:698][595]Cmd: MAP REBUILD ALLVISIBLE
+[2016.11.13-21.46.16:698][595]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.11.13-21.46.16:727][595]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.11.13-21.46.16:734][595]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2016.11.13-21.46.16:744][595]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2016.11.13-21.46.17:345][595]LogLevel:Display: Export Material TexCoord Scales took 0.007 seconds.
+[2016.11.13-21.46.17:349][595]TextureStreamingBuild:Display: Build Texture Streaming took 0.004 seconds.
+[2016.11.13-21.46.17:365][595]LightingResults: New page: Lighting Build - Nov 13, 2016, 11:46:17 AM
+[2016.11.13-21.46.17:373][595]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.13-21.46.17:375][595]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.13-21.46.17:375][595]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.13-21.46.17:376][595]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.13-21.46.17:376][595]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6088
+[2016.11.13-21.46.35:939][595]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.11.13-21.46.35:939][595]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.13-21.46.35:939][595]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.13-21.46.35:939][595]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.13-21.46.35:939][595]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.13-21.46.35:939][595]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.13-21.46.36:042][595]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.13-21.46.36:042][595]MapCheck: New page: Bowser1 - Nov 13, 2016, 11:46:36 AM
+[2016.11.13-21.46.36:043][595]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.11.13-21.46.36:103][595]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 60.738ms to complete.
+[2016.11.13-21.46.36:125][595]LogEditorBuildUtils: Build time 0:19
+[2016.11.13-21.46.38:386][602]Job is a success!
+[2016.11.13-21.46.38:863][603]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.13-21.46.38:864][603]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.13-21.46.38:864][603]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.13-21.46.38:864][603]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.13-21.46.38:864][603]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.11.13-21.46.38:864][603]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.11.13-21.46.38:894][603]Lightmass on ARMEN-PC: 1.33 sec total, 153 ms importing, 26 ms setup, 282 ms photons, 838 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.70 sec total, 560 ms processing.
+[2016.11.13-21.46.38:900][603]LogStaticLightingSystem: Illumination: 21.1 sec (23 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.11.13-21.46.38:900][603]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.13-21.46.38:900][603]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.13-21.46.38:954][604]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.13-21.46.38:954][604]MapCheck: New page: Bowser1 - Nov 13, 2016, 11:46:38 AM
+[2016.11.13-21.46.39:010][604]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 56.445ms to complete.
+[2016.11.13-21.48.17:562][627]Cmd: MODE GRID=0
+[2016.11.13-21.48.18:479][730]Cmd: MODE GRID=1
+[2016.11.13-21.48.19:008][791]Cmd: MODE GRID=0
+[2016.11.13-21.48.19:517][846]Cmd: MODE GRID=1
+[2016.11.13-21.48.45:171][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.48.46:799][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.48.48:263][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.48.48:789][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.48.49:512][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.48.50:555][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.48.51:352][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.48.52:485][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.48.59:688][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.48.59:688][124]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:48:59 AM)
+[2016.11.13-21.48.59:688][124]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.48.59:692][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2016.11.13-21.48.59:692][124]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.48.59:693][124]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2016.11.13-21.48.59:693][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004916s)
+[2016.11.13-21.48.59:735][124]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.48.59:747][124]LogInit: FAudioDevice initialized.
+[2016.11.13-21.48.59:784][124]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.48.59:788][124]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.48.59
+[2016.11.13-21.48.59:788][124]LogWorld: Bringing up level for play took: 0.002019
+[2016.11.13-21.48.59:789][124]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.48.59:789][124]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.48.59:789][124]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.48.59:791][124]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.48.59:791][124]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.078
+[2016.11.13-21.49.10:571][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.49.44:810][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.50.41:191][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.50.47:152][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.50.49:290][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.50.52:477][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.51.05:343][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.51.05:412][718]LogSavePackage: Save=41.20ms
+[2016.11.13-21.51.05:412][718]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser13706ED034EEB7542BACBAC9FC7BA58EC.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.51.05:415][718]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.51.06:250][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.51.06:250][796]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:51:06 AM)
+[2016.11.13-21.51.06:250][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.51.06:253][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002493s)
+[2016.11.13-21.51.06:253][796]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.51.06:254][796]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2016.11.13-21.51.06:254][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.003806s)
+[2016.11.13-21.51.06:293][796]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.51.06:303][796]LogInit: FAudioDevice initialized.
+[2016.11.13-21.51.06:333][796]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.51.06:336][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.51.06
+[2016.11.13-21.51.06:336][796]LogWorld: Bringing up level for play took: 0.001720
+[2016.11.13-21.51.06:338][796]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.51.06:338][796]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.51.06:338][796]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.51.06:339][796]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.51.06:340][796]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.627
+[2016.11.13-21.51.34:313][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.51.34:370][ 41]LogSavePackage: Save=39.56ms
+[2016.11.13-21.51.34:370][ 41]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser1CDE5DE6049D914AF9BB34E97154D4ACE.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.51.34:371][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.51.42:205][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.51.42:448][917]Cmd: EDIT COPY
+[2016.11.13-21.51.42:851][964]Cmd: EDIT PASTE
+[2016.11.13-21.52.02:273][ 41]LogPhysics:Warning: Scale 'X=6.750 Y=7.000 Z=0.000' is not valid on object '/Game/ThirdPersonBP/Maps/Bowser1.Bowser1:PersistentLevel.Cube4.StaticMeshComponent0 Cube'.
+[2016.11.13-21.52.02:273][ 41]LogPhysics:Warning: Scale 'X=6.750 Y=7.000 Z=0.000' is not valid on object '/Game/ThirdPersonBP/Maps/Bowser1.Bowser1:PersistentLevel.Cube4.StaticMeshComponent0 Cube'.
+[2016.11.13-21.53.00:969][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.53.01:032][373]LogSavePackage: Save=42.15ms
+[2016.11.13-21.53.01:032][373]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser18B82DAF643DDAF5FFF796AB9F1FA490A.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.53.01:035][373]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.53.01:887][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.53.01:887][452]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:53:01 AM)
+[2016.11.13-21.53.01:887][452]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.53.01:894][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006815s)
+[2016.11.13-21.53.01:895][452]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.53.01:895][452]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2016.11.13-21.53.01:895][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.008102s)
+[2016.11.13-21.53.01:938][452]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.53.01:949][452]LogInit: FAudioDevice initialized.
+[2016.11.13-21.53.01:984][452]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.53.01:988][452]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.53.01
+[2016.11.13-21.53.01:988][452]LogWorld: Bringing up level for play took: 0.002393
+[2016.11.13-21.53.01:989][452]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.53.01:989][452]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.53.01:989][452]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.53.02:005][452]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.53.02:005][452]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.292
+[2016.11.13-21.53.18:823][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2016.11.13-21.53.28:064][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.53.28:471][396]Cmd: EDIT COPY
+[2016.11.13-21.53.30:588][631]Cmd: EDIT PASTE
+[2016.11.13-21.53.37:099][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2016.11.13-21.53.51:218][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2016.11.13-21.53.53:227][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2016.11.13-21.53.55:097][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.53.55:097][122]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:53:55 AM)
+[2016.11.13-21.53.55:097][122]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.53.55:100][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002803s)
+[2016.11.13-21.53.55:101][122]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.53.55:101][122]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2016.11.13-21.53.55:101][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004104s)
+[2016.11.13-21.53.55:143][122]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.53.55:154][122]LogInit: FAudioDevice initialized.
+[2016.11.13-21.53.55:188][122]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.53.55:191][122]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.53.55
+[2016.11.13-21.53.55:192][122]LogWorld: Bringing up level for play took: 0.002282
+[2016.11.13-21.53.55:193][122]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.53.55:193][122]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.53.55:193][122]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.53.55:195][122]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.53.55:195][122]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.518
+[2016.11.13-21.54.05:564][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.54.05:628][266]LogSavePackage: Save=44.99ms
+[2016.11.13-21.54.05:628][266]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser1FC834760451E53AE956E06B5DCE7C293.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.54.05:630][266]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.55.20:027][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.55.20:027][411]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:55:20 AM)
+[2016.11.13-21.55.20:027][411]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.55.20:030][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002874s)
+[2016.11.13-21.55.20:032][411]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.55.20:032][411]LogPlayLevel: PIE: World Init took: (0.001864s)
+[2016.11.13-21.55.20:032][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004995s)
+[2016.11.13-21.55.20:074][411]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.55.20:087][411]LogInit: FAudioDevice initialized.
+[2016.11.13-21.55.20:123][411]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.55.20:126][411]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.55.20
+[2016.11.13-21.55.20:127][411]LogWorld: Bringing up level for play took: 0.002042
+[2016.11.13-21.55.20:128][411]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.55.20:128][411]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.55.20:128][411]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.55.20:129][411]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.55.20:129][411]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.417
+[2016.11.13-21.55.25:814][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.55.31:566][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.55.36:791][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2016.11.13-21.55.53:650][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2016.11.13-21.55.54:233][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2016.11.13-21.55.57:418][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.55.57:487][141]LogSavePackage: Save=44.83ms
+[2016.11.13-21.55.57:487][141]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser19CC2369A41BA5AAA292CE69030A588BD.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.55.57:493][141]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.55.58:685][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.55.58:686][253]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:55:58 AM)
+[2016.11.13-21.55.58:686][253]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.55.58:689][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002902s)
+[2016.11.13-21.55.58:689][253]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.55.58:690][253]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2016.11.13-21.55.58:690][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004153s)
+[2016.11.13-21.55.58:734][253]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.55.58:745][253]LogInit: FAudioDevice initialized.
+[2016.11.13-21.55.58:780][253]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.55.58:783][253]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.55.58
+[2016.11.13-21.55.58:784][253]LogWorld: Bringing up level for play took: 0.002182
+[2016.11.13-21.55.58:785][253]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.55.58:785][253]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.55.58:785][253]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.55.58:786][253]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.55.58:787][253]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 1.074
+[2016.11.13-21.56.10:012][547]MapCheck: New page: Map Check
+[2016.11.13-21.56.10:038][547]Cmd: MAP REBUILD ALLVISIBLE
+[2016.11.13-21.56.10:038][547]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.11.13-21.56.10:066][547]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.11.13-21.56.10:074][547]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2016.11.13-21.56.10:080][547]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2016.11.13-21.56.10:728][547]LogLevel:Display: Export Material TexCoord Scales took 0.004 seconds.
+[2016.11.13-21.56.10:732][547]TextureStreamingBuild:Display: Build Texture Streaming took 0.004 seconds.
+[2016.11.13-21.56.10:749][547]LightingResults: New page: Lighting Build - Nov 13, 2016, 11:56:10 AM
+[2016.11.13-21.56.10:777][547]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.13-21.56.10:781][547]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.13-21.56.10:781][547]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.13-21.56.10:782][547]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.13-21.56.10:782][547]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6088
+[2016.11.13-21.56.29:296][547]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.11.13-21.56.29:296][547]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.13-21.56.29:296][547]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.13-21.56.29:296][547]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.13-21.56.29:296][547]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.13-21.56.29:296][547]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.13-21.56.29:402][547]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.13-21.56.29:402][547]MapCheck: New page: Bowser1 - Nov 13, 2016, 11:56:29 AM
+[2016.11.13-21.56.29:402][547]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.11.13-21.56.29:461][547]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 58.794ms to complete.
+[2016.11.13-21.56.29:483][547]LogEditorBuildUtils: Build time 0:19
+[2016.11.13-21.56.31:542][647]Job is a success!
+[2016.11.13-21.56.31:675][648]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.13-21.56.31:675][648]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.13-21.56.31:675][648]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.13-21.56.31:675][648]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.13-21.56.31:675][648]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2016.11.13-21.56.31:676][648]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2016.11.13-21.56.31:710][648]Lightmass on ARMEN-PC: 1.01 sec total, 174 ms importing, 30 ms setup, 289 ms photons, 479 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 3.18 sec total, 1.05 sec processing.
+[2016.11.13-21.56.31:721][648]LogStaticLightingSystem: Illumination: 20.9 sec (35 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2016.11.13-21.56.31:721][648]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.13-21.56.31:721][648]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.13-21.56.32:315][649]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.13-21.56.32:315][649]MapCheck: New page: Bowser1 - Nov 13, 2016, 11:56:32 AM
+[2016.11.13-21.56.32:375][649]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 60.206ms to complete.
+[2016.11.13-21.57.22:402][599]LogTexture:Display: Building textures: T_Frame_N (BC5)
+[2016.11.13-21.57.23:173][599]LogTexture:Display: Building textures: T_Frame_M (DXT1)
+[2016.11.13-21.57.26:489][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.57.26:489][770]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:57:26 AM)
+[2016.11.13-21.57.26:489][770]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.57.26:492][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003025s)
+[2016.11.13-21.57.26:493][770]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.57.26:493][770]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2016.11.13-21.57.26:493][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004311s)
+[2016.11.13-21.57.26:533][770]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.57.26:544][770]LogInit: FAudioDevice initialized.
+[2016.11.13-21.57.26:575][770]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.57.26:578][770]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.57.26
+[2016.11.13-21.57.26:578][770]LogWorld: Bringing up level for play took: 0.002217
+[2016.11.13-21.57.26:579][770]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.57.26:579][770]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.57.26:579][770]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.57.26:581][770]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.57.26:582][770]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.869
+[2016.11.13-21.57.38:684][962]LogTexture:Display: Building textures: T_Ground_Gravel_N (BC5)
+[2016.11.13-21.57.39:703][962]LogTexture:Display: Building textures: T_Perlin_Noise_M (AutoDXT)
+[2016.11.13-21.57.43:105][962]LogTexture:Display: Building textures: T_Ground_Gravel_D (AutoDXT)
+[2016.11.13-21.57.46:398][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2016.11.13-21.58.05:169][321]LogTexture:Display: Building textures: T_Rock_Basalt_D (AutoDXT)
+[2016.11.13-21.58.08:567][321]LogTexture:Display: Building textures: T_RockMesh_M (DXT1)
+[2016.11.13-21.58.10:397][321]LogTexture:Display: Building textures: T_RockMesh_N (BC5)
+[2016.11.13-21.58.11:155][321]LogTexture:Display: Building textures: T_Detail_Rocky_N (BC5)
+[2016.11.13-21.58.15:770][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2016.11.13-21.58.21:361][162]LogTexture:Display: Building textures: T_Wood_Oak_N (BC5)
+[2016.11.13-21.58.22:289][162]LogTexture:Display: Building textures: T_Wood_Oak_D (AutoDXT)
+[2016.11.13-21.58.25:556][162]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.13-21.58.26:495][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.58.26:830][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.58.28:626][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2016.11.13-21.58.30:697][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.58.31:866][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2016.11.13-21.58.32:676][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2016.11.13-21.58.39:809][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2016.11.13-21.58.47:584][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.13-21.59.08:594][360]LogTexture:Display: Building textures: T_ColorGrid (AutoDXT)
+[2016.11.13-21.59.20:847][231]LogTexture:Display: Building textures: T_Water_N (BC5)
+[2016.11.13-21.59.21:674][231]LogTexture:Display: Building textures: T_Water_M (AutoDXT)
+[2016.11.13-21.59.24:432][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-21.59.24:432][389]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 11:59:24 AM)
+[2016.11.13-21.59.24:432][389]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-21.59.24:435][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002785s)
+[2016.11.13-21.59.24:436][389]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-21.59.24:436][389]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2016.11.13-21.59.24:436][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004032s)
+[2016.11.13-21.59.24:481][389]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-21.59.24:493][389]LogInit: FAudioDevice initialized.
+[2016.11.13-21.59.24:528][389]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-21.59.24:531][389]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-16.59.24
+[2016.11.13-21.59.24:531][389]LogWorld: Bringing up level for play took: 0.001972
+[2016.11.13-21.59.24:532][389]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.59.24:532][389]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-21.59.24:532][389]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.59.24:534][389]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-21.59.24:534][389]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.822
+[2016.11.13-21.59.44:115][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.59.44:235][409]LogSavePackage: Save=47.09ms
+[2016.11.13-21.59.44:235][409]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser1EA3158564C0BB58C581CA7BB8C79FF67.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.59.44:237][409]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.59.51:846][899]LogTexture:Display: Building textures: T_Tech_Hex_Tile_N (BC5)
+[2016.11.13-21.59.52:054][899]LogTexture:Display: Building textures: T_Tech_Hex_Tile_M (AutoDXT)
+[2016.11.13-21.59.55:274][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-21.59.55:339][103]LogSavePackage: Save=44.60ms
+[2016.11.13-21.59.55:339][103]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser15D67F6A34CAB2ED62A3F9595BBEB3655.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-21.59.55:341][103]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-21.59.56:045][169]MapCheck: New page: Map Check
+[2016.11.13-21.59.56:067][169]Cmd: MAP REBUILD ALLVISIBLE
+[2016.11.13-21.59.56:067][169]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.11.13-21.59.56:095][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.11.13-21.59.56:102][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2016.11.13-21.59.56:110][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile, compiling. 
+[2016.11.13-21.59.56:118][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock, compiling. 
+[2016.11.13-21.59.56:128][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Oak, compiling. 
+[2016.11.13-21.59.57:207][169]LogLevel:Display: Export Material TexCoord Scales took 0.050 seconds.
+[2016.11.13-21.59.57:212][169]TextureStreamingBuild:Display: Build Texture Streaming took 0.004 seconds.
+[2016.11.13-21.59.57:229][169]LightingResults: New page: Lighting Build - Nov 13, 2016, 11:59:57 AM
+[2016.11.13-21.59.57:237][169]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.13-21.59.57:239][169]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.13-21.59.57:240][169]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.13-21.59.57:241][169]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.13-21.59.57:241][169]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6088
+[2016.11.13-22.00.15:756][169]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.11.13-22.00.15:756][169]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.13-22.00.15:756][169]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.13-22.00.15:756][169]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.13-22.00.15:756][169]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.13-22.00.15:756][169]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.13-22.00.15:874][169]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.13-22.00.15:874][169]MapCheck: New page: Bowser1 - Nov 13, 2016, 12:00:15 PM
+[2016.11.13-22.00.15:942][169]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 68.367ms to complete.
+[2016.11.13-22.00.15:964][169]LogEditorBuildUtils: Build time 0:19
+[2016.11.13-22.00.16:060][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile, compiling. 
+[2016.11.13-22.00.16:092][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile, compiling. 
+[2016.11.13-22.00.16:165][171]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2016.11.13-22.00.16:172][171]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2016.11.13-22.00.16:206][172]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2016.11.13-22.00.16:215][172]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2016.11.13-22.00.19:046][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-22.00.19:046][249]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 12:00:19 PM)
+[2016.11.13-22.00.19:046][249]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-22.00.19:049][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003307s)
+[2016.11.13-22.00.19:050][249]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-22.00.19:051][249]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2016.11.13-22.00.19:051][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.005108s)
+[2016.11.13-22.00.19:104][249]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-22.00.19:120][249]LogInit: FAudioDevice initialized.
+[2016.11.13-22.00.19:155][249]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-22.00.19:159][249]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-17.00.19
+[2016.11.13-22.00.19:160][249]LogWorld: Bringing up level for play took: 0.002809
+[2016.11.13-22.00.19:161][249]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-22.00.19:161][249]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-22.00.19:161][249]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-22.00.19:164][249]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-22.00.19:165][249]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.548
+[2016.11.13-22.00.19:395][271]Job is a success!
+[2016.11.13-22.00.50:043][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-22.00.50:043][685]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 12:00:50 PM)
+[2016.11.13-22.00.50:043][685]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-22.00.50:046][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003086s)
+[2016.11.13-22.00.50:047][685]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-22.00.50:047][685]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2016.11.13-22.00.50:047][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004396s)
+[2016.11.13-22.00.50:092][685]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-22.00.50:104][685]LogInit: FAudioDevice initialized.
+[2016.11.13-22.00.50:135][685]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-22.00.50:139][685]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-17.00.50
+[2016.11.13-22.00.50:139][685]LogWorld: Bringing up level for play took: 0.001988
+[2016.11.13-22.00.50:140][685]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-22.00.50:140][685]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-22.00.50:140][685]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-22.00.50:142][685]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-22.00.50:142][685]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.429
+[2016.11.13-22.00.54:095][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-22.00.54:159][110]LogSavePackage: Save=44.96ms
+[2016.11.13-22.00.54:159][110]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser10ED8FE924CF584AC87FC00A0A5B69FFD.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-22.00.54:161][110]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-22.00.56:367][332]MapCheck: New page: Map Check
+[2016.11.13-22.00.56:428][332]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.13-22.00.56:428][332]MapCheck: New page: Bowser1 - Nov 13, 2016, 12:00:56 PM
+[2016.11.13-22.00.56:503][332]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 74.353ms to complete.
+[2016.11.13-22.00.56:526][332]LogEditorBuildUtils: Build time 0:00
+[2016.11.13-22.01.00:175][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.13-22.01.00:175][702]PIE: New page: PIE session: Bowser1 (Nov 13, 2016, 12:01:00 PM)
+[2016.11.13-22.01.00:175][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.11.13-22.01.00:178][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002923s)
+[2016.11.13-22.01.00:179][702]LogAIModule: Creating AISystem for world Bowser1
+[2016.11.13-22.01.00:179][702]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2016.11.13-22.01.00:179][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004164s)
+[2016.11.13-22.01.00:220][702]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach PX22)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.13-22.01.00:232][702]LogInit: FAudioDevice initialized.
+[2016.11.13-22.01.00:266][702]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.11.13-22.01.00:270][702]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.11.13-17.01.00
+[2016.11.13-22.01.00:270][702]LogWorld: Bringing up level for play took: 0.002107
+[2016.11.13-22.01.00:271][702]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-22.01.00:271][702]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.13-22.01.00:271][702]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-22.01.00:273][702]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.13-22.01.00:273][702]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.56
+[2016.11.13-22.01.07:053][366]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.13-22.01.07:053][366]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.13-22.01.07:053][366]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.13-22.01.07:053][366]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.13-22.01.07:053][366]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2016.11.13-22.01.07:053][366]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.11.13-22.01.07:078][366]Lightmass on ARMEN-PC: 48.5 sec total, 160 ms importing, 27 ms setup, 286 ms photons, 48.0 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 5:36 min total, 1.29 sec processing.
+[2016.11.13-22.01.07:084][366]LogStaticLightingSystem: Illumination: 22.2 sec (31 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.11.13-22.01.07:084][366]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.13-22.01.07:084][366]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.13-22.01.07:791][367]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.13-22.01.07:791][367]MapCheck: New page: Bowser1 - Nov 13, 2016, 12:01:07 PM
+[2016.11.13-22.01.07:865][367]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 74.382ms to complete.
+[2016.11.13-22.01.09:484][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Bowser1" FILE="../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.13-22.01.09:548][501]LogSavePackage: Save=46.66ms
+[2016.11.13-22.01.09:548][501]LogSavePackage: Moving '../../../../../GitHub/jeuxVideo/jeux/Saved/Bowser1A11EB8D341183C2A6D023A8748C1EE3D.tmp' to '../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap'
+[2016.11.13-22.01.09:551][501]LogSavePackage:Display: Finished SavePackage ../../../../../GitHub/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap
+[2016.11.13-22.01.14:894][940]Cmd: QUIT_EDITOR
+[2016.11.13-22.01.15:116][940]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.13-22.01.15:198][940]LogExit: Preparing to exit.
+[2016.11.13-22.01.15:624][940]LogDirectoryWatcher: A directory notification for 'E:/GitHub/jeuxVideo/jeux/Content/' was aborted.
+[2016.11.13-22.01.15:749][940]LogExit: Editor shut down
+[2016.11.13-22.01.15:751][940]LogExit: Transaction tracking system shut down
+[2016.11.13-22.01.16:031][940]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.13-22.01.16:031][940]LogExit: Object subsystem successfully closed.
+[2016.11.13-22.01.16:191][940]LogD3D11RHI: Shutdown
+[2016.11.13-22.01.16:191][940]LogD3D11RHI: CleanupD3DDevice
+[2016.11.13-22.01.16:729][940]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (236)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (235)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (234)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.13-22.01.16:748][940]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.13-22.01.16:749][940]LogDirectoryWatcher: A directory notification for 'E:/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.13-22.01.16:761][940]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.13-22.01.16:762][940]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.13-22.01.16:762][940]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.13-22.01.16:762][940]LogDirectoryWatcher: A directory notification for 'E:/GitHub/jeuxVideo/jeux/Content/Collections/' was aborted.
+[2016.11.13-22.01.16:762][940]LogDirectoryWatcher: A directory notification for 'E:/GitHub/jeuxVideo/jeux/Content/Developers/Armen/Collections/' was aborted.
+[2016.11.13-22.01.16:762][940]LogDirectoryWatcher: A directory notification for 'E:/GitHub/jeuxVideo/jeux/Saved/Collections/' was aborted.
+[2016.11.13-22.01.16:762][940]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.13-22.01.16:762][940]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.13-22.01.16:763][940]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.13-22.01.16:764][940]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.13-22.01.16:765][940]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.13-22.01.16:765][940]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.13-22.01.16:765][940]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.13-22.01.16:765][940]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.13-22.01.16:765][940]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.13-22.01.16:765][940]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.13-22.01.16:783][940]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.13-22.01.16:784][940]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.13-22.01.16:784][940]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.13-22.01.16:784][940]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.13-22.01.16:784][940]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.13-22.01.16:785][940]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.13-22.01.16:829][940]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.13-22.01.16:830][940]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.13-22.01.16:831][940]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.13-22.01.16:831][940]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.13-22.01.16:831][940]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.13-22.01.17:041][940]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.13-22.01.17:042][940]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.13-22.01.17:043][940]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.13-22.01.17:043][940]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.13-22.01.17:043][940]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.13-22.01.17:043][940]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.13-22.01.17:043][940]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.13-22.01.17:045][940]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.13-22.01.17:048][940]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.13-22.01.17:048][940]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.13-22.01.17:149][940]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.13-22.01.17:249][940]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.13-22.01.17:249][940]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.13-22.01.17:249][940]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.13-22.01.17:249][940]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.13-22.01.17:250][940]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.13-22.01.17:254][940]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.13-22.01.17:254][940]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.13-22.01.17:254][940]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.13-22.01.17:254][940]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.13-22.01.17:254][940]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.13-22.01.17:254][940]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.13-22.01.17:254][940]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.13-22.01.17:255][940]LogDirectoryWatcher: A directory notification for '../../../../../GitHub/jeuxVideo/jeux/Content/' was aborted.
+[2016.11.13-22.01.17:256][940]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.13-22.01.17:271][940]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.13-22.01.17:505][940]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.13-22.01.17:505][940]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.13-22.01.17:505][940]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.13-22.01.17:506][940]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.13-22.01.17:596][940]LogDerivedDataCache: Shutdown
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.13-22.01.17:596][940]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.13-22.01.17:597][940]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.13-22.01.17:598][940]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.13-22.01.17:598][940]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.13-22.01.17:598][940]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.13-22.01.17:598][940]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB35BFFC6-4923-CAB4-51E5-819EA83C73AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=f41cf4614cef99315b9c689b2c18d55e%7C020c5ff6b41e4887bdc3d8a1b7876802%7Cbfb82bda-2b99-42c4-bae0-26d330916a2c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.13-22.01.17:621][940]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.13-22.01.17:621][940]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.13-22.01.17:621][940]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.13-22.01.17:621][940]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.13-22.01.17:621][940]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.13-22.01.17:628][940]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.13-22.01.17:631][940]LogExit: Exiting.
+[2016.11.13-22.01.17:639][940]Log file closed, 11/13/16 17:01:17
