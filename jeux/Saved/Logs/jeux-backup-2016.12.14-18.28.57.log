@@ -1,0 +1,656 @@
+﻿Log file open, 12/06/16 18:25:05
+LogInit:Display: Running engine for game: jeux
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-834337456) SRandInit(-834337456).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.076221
+LogPluginManager: Loaded Plugin Paper2D, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From W:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: W:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.06-23.25.05:312][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.06-23.25.05:312][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.06-23.25.05:328][  0]LogInit: Computer: DESKTOP-GQ4CL00
+[2016.12.06-23.25.05:328][  0]LogInit: User: mike
+[2016.12.06-23.25.05:328][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.06-23.25.05:328][  0]LogInit: High frequency timer resolution =3.906245 MHz
+[2016.12.06-23.25.05:328][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.12.06-23.25.05:328][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.06-23.25.05:328][  0]LogMemory: Process Physical Memory: 256.86 MB used, 256.86 MB peak
+[2016.12.06-23.25.05:328][  0]LogMemory: Process Virtual Memory: 260.13 MB used, 260.13 MB peak
+[2016.12.06-23.25.05:328][  0]LogMemory: Physical Memory: 6043.16 MB used, 16332.69 MB total
+[2016.12.06-23.25.05:328][  0]LogMemory: Virtual Memory: 623.23 MB used, 134217728.00 MB total
+[2016.12.06-23.25.05:361][  0]LogTextLocalizationManager: No translations for ('fr-CA') exist, falling back to 'en' for localization and internationalization data.
+[2016.12.06-23.25.06:136][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.06-23.25.06:171][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2016.12.06-23.25.06:171][  0]LogD3D11RHI:       4058/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.12.06-23.25.06:173][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.06-23.25.06:173][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.06-23.25.06:173][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.06-23.25.06:179][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.06-23.25.06:179][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.06-23.25.06:179][  0]LogWindows: EnumDisplayDevices:
+[2016.12.06-23.25.06:179][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2016.12.06-23.25.06:179][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2016.12.06-23.25.06:179][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.12.06-23.25.06:180][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.12.06-23.25.06:180][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.12.06-23.25.06:180][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2016.12.06-23.25.06:180][  0]LogD3D11RHI:   Driver Version: 375.70 (internal:21.21.13.7570, unified:375.70)
+[2016.12.06-23.25.06:180][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2016.12.06-23.25.06:180][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.06-23.25.06:195][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.06-23.25.06:212][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.12.06-23.25.06:212][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../project/jeuxVideo/jeux/Intermediate/Shaders/WorkingDirectory/13424/).
+[2016.12.06-23.25.06:212][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mario/AppData/Local/Temp/UnrealShaderWorkingDir/9286D0B34AD640F775DAF8AF6E576D78/'.
+[2016.12.06-23.25.06:212][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.06-23.25.07:045][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.06-23.25.07:052][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.06-23.25.07:058][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.06-23.25.07:065][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.06-23.25.07:071][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.06-23.25.07:077][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.06-23.25.07:082][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.06-23.25.07:087][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.06-23.25.07:092][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.06-23.25.07:097][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.06-23.25.07:102][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.06-23.25.07:113][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.06-23.25.07:113][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.06-23.25.07:114][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.06-23.25.07:132][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.06-23.25.07:137][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.06-23.25.07:142][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.06-23.25.07:148][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.06-23.25.07:153][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.06-23.25.07:159][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.06-23.25.07:159][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.06-23.25.07:243][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.06-23.25.07:303][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/mario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.06-23.25.07:303][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/mario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.12.06-23.25.07:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../project/jeuxVideo/jeux/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.06-23.25.07:303][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.06-23.25.07:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../project/jeuxVideo/jeux/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.06-23.25.07:303][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.06-23.25.07:317][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.06-23.25.07:329][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.06-23.25.07:520][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.06-23.25.07:522][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.06-23.25.07:606][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.06-23.25.07:606][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.06-23.25.07:606][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.06-23.25.07:684][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.06-23.25.07:936][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: jeux, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1832731587
+[2016.12.06-23.25.07:970][  0]LogAssetRegistry: FAssetRegistry took 0.0214 seconds to start up
+[2016.12.06-23.25.08:020][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.047117 seconds
+[2016.12.06-23.25.08:024][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.12.06-23.25.08:024][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.12.06-23.25.08:024][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.06-23.25.08:030][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.06-23.25.08:201][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.06-23.25.08:201][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.06-23.25.09:121][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.06-23.25.09:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.06-23.25.09:383][  0]SourceControl: Info Source control is disabled
+[2016.12.06-23.25.09:384][  0]SourceControl: Info Source control is disabled
+[2016.12.06-23.25.09:397][  0]SourceControl: Info Source control is disabled
+[2016.12.06-23.25.09:411][  0]SourceControl: Info Source control is disabled
+[2016.12.06-23.25.09:787][  0]LogEngine: Initializing Engine...
+[2016.12.06-23.25.09:787][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.06-23.25.09:900][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.06-23.25.09:913][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.25.09:924][  0]LogInit: FAudioDevice initialized.
+[2016.12.06-23.25.09:955][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/mario/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.06-23.25.09:962][  0]LogInit: Texture streaming: Enabled
+[2016.12.06-23.25.09:983][  0]LogInit: Transaction tracking system initialized
+[2016.12.06-23.25.10:001][  0]BlueprintLog: New page: Editor Load
+[2016.12.06-23.25.10:067][  0]LocalizationService: Info Localization service is disabled
+[2016.12.06-23.25.10:147][  0]LogConsoleResponse:Display: 
+[2016.12.06-23.25.10:260][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.06-23.25.10:260][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.06-23.25.10:461][  0]LogFileCache: Scanning file cache for directory 'W:/Program Files (x86)/Epic Games/project/jeuxVideo/jeux/Content/' took 0.02s
+[2016.12.06-23.25.10:462][  0]SourceControl: Info Source control is disabled
+[2016.12.06-23.25.10:462][  0]Cmd: MAP LOAD FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Maps/Bowser1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.06-23.25.10:481][  0]LightingResults: New page: Lighting Build
+[2016.12.06-23.25.10:483][  0]MapCheck: New page: Map Check
+[2016.12.06-23.25.10:483][  0]LightingResults: New page: Lighting Build
+[2016.12.06-23.25.10:859][  0]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.25.10:863][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.06-23.25.10:863][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.06-23.25.10:937][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.936ms to complete.
+[2016.12.06-23.25.10:937][  0]LogFileHelpers: Loading map 'Bowser1' took 0.476
+[2016.12.06-23.25.11:121][  0]LogCollectionManager: Loaded 0 collections in 0.001701 seconds
+[2016.12.06-23.25.11:169][  0]LogFileCache: Scanning file cache for directory 'W:/Program Files (x86)/Epic Games/project/jeuxVideo/jeux/Saved/Collections/' took 0.01s
+[2016.12.06-23.25.11:169][  0]LogFileCache: Scanning file cache for directory 'W:/Program Files (x86)/Epic Games/project/jeuxVideo/jeux/Content/Developers/mike/Collections/' took 0.01s
+[2016.12.06-23.25.11:169][  0]LogFileCache: Scanning file cache for directory 'W:/Program Files (x86)/Epic Games/project/jeuxVideo/jeux/Content/Collections/' took 0.01s
+[2016.12.06-23.25.11:169][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.12.06-23.25.11:176][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2141 classes and 415 folders.
+[2016.12.06-23.25.11:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.06-23.25.11:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.06-23.25.11:180][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 12 classes and 0 folders.
+[2016.12.06-23.25.11:184][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.12.06-23.25.12:317][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.06-23.25.12:358][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.12.06-23.25.12:457][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.06-23.25.12:462][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.06-23.25.12:488][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.12.06-23.25.12:489][  0]LogLoad: (Engine Initialization) Total time: 8.47 seconds
+[2016.12.06-23.25.12:489][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.03 seconds
+[2016.12.06-23.25.12:489][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.06-23.25.12:489][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.06-23.25.12:829][  0]LogOcInput: OculusInput pre-init called
+[2016.12.06-23.25.12:847][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.06-23.25.13:027][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.12.06-23.25.13:168][  1]LogAssetRegistry: Asset discovery search completed in 5.2187 seconds
+[2016.12.06-23.25.13:168][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.06-23.25.13:168][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2016.12.06-23.26.11:581][839]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2016.12.06-23.26.23:905][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.26.23:934][767]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:26:23 PM)
+[2016.12.06-23.26.23:934][767]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.26.23:937][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002754s)
+[2016.12.06-23.26.23:938][767]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.26.23:938][767]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2016.12.06-23.26.23:939][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.004061s)
+[2016.12.06-23.26.23:979][767]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.26.23:987][767]LogInit: FAudioDevice initialized.
+[2016.12.06-23.26.24:090][767]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.26.24:093][767]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.26.24
+[2016.12.06-23.26.24:093][767]LogWorld: Bringing up level for play took: 0.001265
+[2016.12.06-23.26.24:096][767]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2016.12.06-23.26.24:096][767]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.26.24:096][767]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.26.24:096][767]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.26.24:099][767]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.26.24:099][767]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 1.076
+[2016.12.06-23.26.33:068][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.26.33:068][631]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:26:33 PM)
+[2016.12.06-23.26.33:068][631]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.26.33:069][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2016.12.06-23.26.33:070][631]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.26.33:070][631]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2016.12.06-23.26.33:070][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.002146s)
+[2016.12.06-23.26.33:094][631]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.26.33:103][631]LogInit: FAudioDevice initialized.
+[2016.12.06-23.26.33:131][631]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.26.33:133][631]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.26.33
+[2016.12.06-23.26.33:133][631]LogWorld: Bringing up level for play took: 0.001210
+[2016.12.06-23.26.33:134][631]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.26.33:134][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.26.33:134][631]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.26.33:135][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.26.33:135][631]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.113
+[2016.12.06-23.26.40:318][485]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:325][486]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:333][487]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:341][488]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:350][489]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:360][490]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:369][491]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:376][492]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:384][493]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:392][494]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:401][495]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:409][496]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:417][497]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:428][498]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:436][499]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:443][500]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.26.40:451][501]LogScript:Warning: Attempted to access MyThirdPersonCharacter_C_0 via property MyCharacter, but MyThirdPersonCharacter_C_0 is pending kill
+	HudLifeTest_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HudLifeTest_C_1
+	Function /Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest_C:GetPercent_0:0027
+[2016.12.06-23.32.35:432][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HudLifeTest" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset" SILENT=true
+[2016.12.06-23.32.35:503][121]LogSavePackage: Save=12.49ms
+[2016.12.06-23.32.35:503][121]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTest883CB11F4CACA8544B14EE8FC6D2C05B.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset'
+[2016.12.06-23.32.35:507][121]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset
+[2016.12.06-23.32.36:163][199]BlueprintLog: New page: Compile HudLifeTest
+[2016.12.06-23.32.36:263][199]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.33.22:706][483]LogEditorTransaction: Undo Delete current selection
+[2016.12.06-23.33.37:237][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.33.37:280][835]LogSavePackage: Save=38.95ms
+[2016.12.06-23.33.37:280][835]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter6240E56E40832A81A3A34E873B9A07B0.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.33.37:283][835]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.33.38:139][913]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.33.45:366][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.33.45:366][581]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:33:45 PM)
+[2016.12.06-23.33.45:366][581]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.33.45:367][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001500s)
+[2016.12.06-23.33.45:368][581]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.33.45:368][581]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2016.12.06-23.33.45:368][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.002362s)
+[2016.12.06-23.33.45:397][581]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.33.45:404][581]LogInit: FAudioDevice initialized.
+[2016.12.06-23.33.45:434][581]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.33.45:436][581]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.33.45
+[2016.12.06-23.33.45:437][581]LogWorld: Bringing up level for play took: 0.001784
+[2016.12.06-23.33.45:437][581]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.33.45:438][581]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.33.45:438][581]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.33.45:439][581]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.33.45:439][581]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.417
+[2016.12.06-23.34.01:339][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.34.01:374][228]LogSavePackage: Save=32.27ms
+[2016.12.06-23.34.01:374][228]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter0FF1D7FC4DBE89A3C185CD9EEAE758CF.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.34.01:378][228]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.34.01:924][269]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.35.56:973][145]LogEditorTransaction: Undo Delete current selection
+[2016.12.06-23.36.06:383][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HudLifeTest" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset" SILENT=true
+[2016.12.06-23.36.06:395][267]LogSavePackage: Save=8.39ms
+[2016.12.06-23.36.06:395][267]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTest24C7FD864DE18FD34E7CA991CA9C856B.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset'
+[2016.12.06-23.36.06:399][267]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset
+[2016.12.06-23.36.06:756][310]BlueprintLog: New page: Compile HudLifeTest
+[2016.12.06-23.36.06:841][310]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.37.08:357][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HudLifeTest" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset" SILENT=true
+[2016.12.06-23.37.08:368][474]LogSavePackage: Save=8.11ms
+[2016.12.06-23.37.08:368][474]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTest207E2D674BE3FB66CD91CC8368355077.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset'
+[2016.12.06-23.37.08:371][474]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset
+[2016.12.06-23.37.09:185][572]BlueprintLog: New page: Compile HudLifeTest
+[2016.12.06-23.37.09:281][572]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.37.12:750][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.37.12:750][974]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:37:12 PM)
+[2016.12.06-23.37.12:751][974]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.37.12:752][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001687s)
+[2016.12.06-23.37.12:753][974]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.37.12:753][974]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2016.12.06-23.37.12:753][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.002532s)
+[2016.12.06-23.37.12:778][974]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.37.12:788][974]LogInit: FAudioDevice initialized.
+[2016.12.06-23.37.12:818][974]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.37.12:820][974]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.37.12
+[2016.12.06-23.37.12:820][974]LogWorld: Bringing up level for play took: 0.001190
+[2016.12.06-23.37.12:821][974]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.37.12:821][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.37.12:821][974]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.37.12:822][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.37.12:822][974]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.2
+[2016.12.06-23.38.37:465][638]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.38.38:723][711]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.39.21:491][670]LogRenderer: Reallocating scene render targets to support 1208x712 (Frame:19611).
+[2016.12.06-23.40.27:888][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HudLifeTest" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset" SILENT=true
+[2016.12.06-23.40.27:899][974]LogSavePackage: Save=7.21ms
+[2016.12.06-23.40.27:899][974]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTestEC1A4BCB481A2570061102B7E8DE2CCC.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset'
+[2016.12.06-23.40.27:902][974]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset
+[2016.12.06-23.40.28:309][ 22]BlueprintLog: New page: Compile HudLifeTest
+[2016.12.06-23.40.28:391][ 22]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.40.37:843][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HudLifeTest" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset" SILENT=true
+[2016.12.06-23.40.37:853][133]LogSavePackage: Save=7.81ms
+[2016.12.06-23.40.37:853][133]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTestBA4188CE49C6BA72C481119578F3B13D.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset'
+[2016.12.06-23.40.37:857][133]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset
+[2016.12.06-23.40.38:888][255]BlueprintLog: New page: Compile HudLifeTest
+[2016.12.06-23.40.38:892][255]LogBlueprint:Error: [Compiler HudLifeTest] Error Binding: Property ' PercentDelegate ' on Widget ' ProgressBar_0 ': Member:GetPercent_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2016.12.06-23.40.39:034][255]BlueprintEditorCompileResults:Error: Error Binding: Property ' PercentDelegate ' on Widget ' ProgressBar_0 ': Member:GetPercent_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2016.12.06-23.40.39:034][255]LogBlueprint:Warning: [Compiler HudLifeTest] Warning [0935.01] Compile of HudLifeTest failed. 1 Fatal Issue(s) 0 Warning(s) [in 145 ms] (/Game/ThirdPersonBP/Blueprints/HudLifeTest.HudLifeTest)
+[2016.12.06-23.41.02:309][ 37]LogEditorTransaction: Undo Remove Graph
+[2016.12.06-23.41.33:699][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HudLifeTest" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset" SILENT=true
+[2016.12.06-23.41.33:708][748]LogSavePackage: Save=7.02ms
+[2016.12.06-23.41.33:708][748]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTestBE8509EA403E3FBDBA7829810B8064F6.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset'
+[2016.12.06-23.41.33:712][748]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HudLifeTest.uasset
+[2016.12.06-23.41.34:623][779]BlueprintLog: New page: Compile HudLifeTest
+[2016.12.06-23.41.34:757][779]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.42.47:682][101]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Bowser1' took 0.016
+[2016.12.06-23.42.47:684][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HudLifeTest] ([1] browsable assets)...
+[2016.12.06-23.42.47:684][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HudLifeTest]
+[2016.12.06-23.42.47:697][101]LogSavePackage: Save=9.18ms
+[2016.12.06-23.42.47:697][101]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HudLifeTest_Auto1DD24F96349B594624CE284996E350499.tmp' to '../../../../project/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HudLifeTest_Auto1.uasset'
+[2016.12.06-23.42.47:714][101]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HudLifeTest_Auto1.uasset
+[2016.12.06-23.42.47:714][101]LogFileHelpers: Auto-saving content packages took 0.032
+[2016.12.06-23.45.48:650][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_HudLifeTest_C_0' or package '/Engine/Transient'.
+[2016.12.06-23.45.48:651][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_HudLifeTest_C_1' or package '/Engine/Transient'.
+[2016.12.06-23.45.48:651][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_HudLifeTest_C_9' or package '/Engine/Transient'.
+[2016.12.06-23.45.48:651][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'HUD_REFERENCE' or package '/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter'.
+[2016.12.06-23.45.48:651][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_HudLifeTest_C_19' or package '/Engine/Transient'.
+[2016.12.06-23.45.48:651][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_HudLifeTest_C_35' or package '/Engine/Transient'.
+[2016.12.06-23.45.48:651][660]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_HudLifeTest_C_34' or package '/Engine/Transient'.
+[2016.12.06-23.46.08:847][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.46.08:883][580]LogSavePackage: Save=31.47ms
+[2016.12.06-23.46.08:883][580]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter92F2341A4792B1168EA4EFB3ED722B72.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.46.08:886][580]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.46.09:748][665]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.46.29:131][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.46.29:167][431]LogSavePackage: Save=32.64ms
+[2016.12.06-23.46.29:167][431]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacterDB96A5DA4D68126E29B1E8987BA343B9.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.46.29:171][431]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.46.29:964][503]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.49.40:322][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD_Test" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset" SILENT=true
+[2016.12.06-23.49.40:332][712]LogSavePackage: Save=7.92ms
+[2016.12.06-23.49.40:332][712]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HUD_TestA57E48074C22000810490FAAB51DC89A.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset'
+[2016.12.06-23.49.40:337][712]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset
+[2016.12.06-23.49.41:307][811]BlueprintLog: New page: Compile HUD_Test
+[2016.12.06-23.49.41:385][811]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.51.04:622][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD_Test" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset" SILENT=true
+[2016.12.06-23.51.04:633][955]LogSavePackage: Save=6.69ms
+[2016.12.06-23.51.04:633][955]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HUD_Test99E106A24639E77CDB2089A3D14B84BA.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset'
+[2016.12.06-23.51.04:636][955]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset
+[2016.12.06-23.51.05:458][ 42]BlueprintLog: New page: Compile HUD_Test
+[2016.12.06-23.51.33:985][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD_Test" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset" SILENT=true
+[2016.12.06-23.51.33:995][925]LogSavePackage: Save=6.90ms
+[2016.12.06-23.51.33:995][925]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HUD_Test2E33520445A3C85715E0289734AE7BF5.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset'
+[2016.12.06-23.51.33:998][925]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset
+[2016.12.06-23.51.35:619][ 27]BlueprintLog: New page: Compile HUD_Test
+[2016.12.06-23.51.35:690][ 27]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.51.36:021][ 62]BlueprintLog: New page: Compile HUD_Test
+[2016.12.06-23.51.36:096][ 62]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.51.50:176][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.51.50:176][191]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:51:50 PM)
+[2016.12.06-23.51.50:176][191]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.51.50:179][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002255s)
+[2016.12.06-23.51.50:179][191]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.51.50:179][191]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2016.12.06-23.51.50:180][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.003375s)
+[2016.12.06-23.51.50:205][191]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.51.50:212][191]LogInit: FAudioDevice initialized.
+[2016.12.06-23.51.50:245][191]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.51.50:248][191]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.51.50
+[2016.12.06-23.51.50:248][191]LogWorld: Bringing up level for play took: 0.001540
+[2016.12.06-23.51.50:248][191]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.51.50:248][191]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.51.50:248][191]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.51.50:250][191]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.51.50:250][191]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.773
+[2016.12.06-23.53.29:884][497]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Bowser1' took 0.016
+[2016.12.06-23.53.29:886][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter] ([1] browsable assets)...
+[2016.12.06-23.53.29:901][497]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.MyThirdPersonCharacter]
+[2016.12.06-23.53.29:901][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter]
+[2016.12.06-23.53.29:937][497]LogSavePackage: Save=31.50ms
+[2016.12.06-23.53.29:937][497]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter_Auto280E4CA914BBA9C49F4314B964AB66EFA.tmp' to '../../../../project/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter_Auto2.uasset'
+[2016.12.06-23.53.29:939][497]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter_Auto2.uasset
+[2016.12.06-23.53.29:939][497]LogFileHelpers: Auto-saving content packages took 0.054
+[2016.12.06-23.54.17:150][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.54.17:185][740]LogSavePackage: Save=32.67ms
+[2016.12.06-23.54.17:185][740]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter8F3333634DFDC29986C7809EA52A6558.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.54.17:189][740]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.54.19:363][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.54.19:392][944]LogSavePackage: Save=25.17ms
+[2016.12.06-23.54.19:392][944]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter886E37D24383B62E265866844BB5789F.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.54.19:394][944]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.54.19:707][973]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.55.54:724][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD_Test" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset" SILENT=true
+[2016.12.06-23.55.54:733][156]LogSavePackage: Save=6.16ms
+[2016.12.06-23.55.54:733][156]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HUD_TestF923BD314D55D88BA8A28FB52778D0E3.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset'
+[2016.12.06-23.55.54:737][156]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset
+[2016.12.06-23.55.55:288][212]BlueprintLog: New page: Compile HUD_Test
+[2016.12.06-23.55.55:369][212]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.06-23.55.59:464][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.55.59:464][652]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:55:59 PM)
+[2016.12.06-23.55.59:464][652]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.55.59:466][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002082s)
+[2016.12.06-23.55.59:467][652]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.55.59:467][652]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2016.12.06-23.55.59:467][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.003170s)
+[2016.12.06-23.55.59:496][652]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.55.59:503][652]LogInit: FAudioDevice initialized.
+[2016.12.06-23.55.59:535][652]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.55.59:537][652]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.55.59
+[2016.12.06-23.55.59:538][652]LogWorld: Bringing up level for play took: 0.002216
+[2016.12.06-23.55.59:538][652]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.55.59:538][652]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.55.59:538][652]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.55.59:540][652]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.55.59:540][652]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.517
+[2016.12.06-23.56.43:892][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.56.43:930][570]LogSavePackage: Save=34.77ms
+[2016.12.06-23.56.43:930][570]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter1C0588AF4950642A449E0F8342A0515B.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.56.43:934][570]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.56.44:816][656]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.56.44:834][656]LogBlueprint:Error: [Compiler MyThirdPersonCharacter] Error This blueprint (self) is not a UserWidget, therefore ' self ' must have a connection.
+[2016.12.06-23.56.44:984][656]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a UserWidget, therefore ' self ' must have a connection.
+[2016.12.06-23.56.44:988][656]LogBlueprint:Warning: [Compiler MyThirdPersonCharacter] Warning [1900.97] Compile of MyThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 173 ms] (/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.MyThirdPersonCharacter)
+[2016.12.06-23.56.49:029][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset" SILENT=true
+[2016.12.06-23.56.49:066][ 13]LogSavePackage: Save=32.90ms
+[2016.12.06-23.56.49:066][ 13]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter5AD138A94C903969294528928E5F6C03.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset'
+[2016.12.06-23.56.49:069][ 13]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.uasset
+[2016.12.06-23.56.49:475][ 51]BlueprintLog: New page: Compile MyThirdPersonCharacter
+[2016.12.06-23.56.55:472][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.06-23.56.55:472][616]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 1:56:55 PM)
+[2016.12.06-23.56.55:472][616]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.06-23.56.55:474][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001790s)
+[2016.12.06-23.56.55:474][616]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.06-23.56.55:475][616]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2016.12.06-23.56.55:475][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.003027s)
+[2016.12.06-23.56.55:501][616]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.06-23.56.55:509][616]LogInit: FAudioDevice initialized.
+[2016.12.06-23.56.55:542][616]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.06-23.56.55:544][616]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-18.56.55
+[2016.12.06-23.56.55:544][616]LogWorld: Bringing up level for play took: 0.001331
+[2016.12.06-23.56.55:545][616]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.56.55:545][616]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.06-23.56.55:545][616]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.56.55:546][616]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.06-23.56.55:546][616]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.524
+[2016.12.07-00.00.01:856][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD_Test" FILE="../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset" SILENT=true
+[2016.12.07-00.00.01:869][598]LogSavePackage: Save=7.68ms
+[2016.12.07-00.00.01:869][598]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/HUD_TestAB44181940EF51A22E94599B16F8FB0B.tmp' to '../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset'
+[2016.12.07-00.00.01:872][598]LogSavePackage:Display: Finished SavePackage ../../../../project/jeuxVideo/jeux/Content/ThirdPersonBP/Blueprints/HUD_Test.uasset
+[2016.12.07-00.00.02:644][646]BlueprintLog: New page: Compile HUD_Test
+[2016.12.07-00.00.02:733][646]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2016.12.07-00.00.17:856][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.07-00.00.17:857][475]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 2:00:17 PM)
+[2016.12.07-00.00.17:857][475]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.07-00.00.17:858][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001815s)
+[2016.12.07-00.00.17:859][475]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.07-00.00.17:859][475]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2016.12.07-00.00.17:859][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.002673s)
+[2016.12.07-00.00.17:887][475]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.07-00.00.17:896][475]LogInit: FAudioDevice initialized.
+[2016.12.07-00.00.17:927][475]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.07-00.00.17:930][475]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-19.00.17
+[2016.12.07-00.00.17:930][475]LogWorld: Bringing up level for play took: 0.001954
+[2016.12.07-00.00.17:931][475]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.00.17:931][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.00.17:931][475]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.00.17:933][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.00.17:933][475]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.911
+[2016.12.07-00.05.34:081][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.07-00.05.34:082][769]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 2:05:34 PM)
+[2016.12.07-00.05.34:082][769]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.07-00.05.34:083][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001778s)
+[2016.12.07-00.05.34:084][769]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.07-00.05.34:085][769]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2016.12.07-00.05.34:085][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.003049s)
+[2016.12.07-00.05.34:107][769]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.07-00.05.34:114][769]LogInit: FAudioDevice initialized.
+[2016.12.07-00.05.34:141][769]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.07-00.05.34:143][769]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-19.05.34
+[2016.12.07-00.05.34:143][769]LogWorld: Bringing up level for play took: 0.001443
+[2016.12.07-00.05.34:144][769]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.05.34:144][769]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.05.34:144][769]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.05.34:146][769]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.05.34:146][769]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.877
+[2016.12.07-00.05.47:334][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.07-00.05.47:334][344]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 2:05:47 PM)
+[2016.12.07-00.05.47:334][344]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.07-00.05.47:335][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001434s)
+[2016.12.07-00.05.47:336][344]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.07-00.05.47:336][344]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2016.12.07-00.05.47:336][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.002250s)
+[2016.12.07-00.05.47:357][344]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.07-00.05.47:364][344]LogInit: FAudioDevice initialized.
+[2016.12.07-00.05.47:391][344]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.07-00.05.47:394][344]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-19.05.47
+[2016.12.07-00.05.47:394][344]LogWorld: Bringing up level for play took: 0.001261
+[2016.12.07-00.05.47:394][344]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.05.47:394][344]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.05.47:394][344]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.05.47:396][344]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.05.47:396][344]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 0.374
+[2016.12.07-00.06.16:751][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.07-00.06.16:751][834]PIE: New page: PIE session: Bowser1 (Dec 6, 2016, 2:06:16 PM)
+[2016.12.07-00.06.16:751][834]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1
+[2016.12.07-00.06.16:753][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2016.12.07-00.06.16:753][834]LogAIModule: Creating AISystem for world Bowser1
+[2016.12.07-00.06.16:753][834]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2016.12.07-00.06.16:753][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Bowser1.Bowser1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 (0.002244s)
+[2016.12.07-00.06.16:773][834]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.07-00.06.16:779][834]LogInit: FAudioDevice initialized.
+[2016.12.07-00.06.16:810][834]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.12.07-00.06.16:812][834]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1.Bowser1 up for play (max tick rate 0) at 2016.12.06-19.06.16
+[2016.12.07-00.06.16:813][834]LogWorld: Bringing up level for play took: 0.001255
+[2016.12.07-00.06.16:813][834]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.06.16:813][834]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.07-00.06.16:813][834]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.06.16:815][834]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.07-00.06.16:815][834]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Bowser1 -0.207
+[2016.12.07-00.08.41:336][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Bowser1' took 0.012
+[2016.12.07-00.08.41:338][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter] ([1] browsable assets)...
+[2016.12.07-00.08.41:350][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter.MyThirdPersonCharacter]
+[2016.12.07-00.08.41:350][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MyThirdPersonCharacter]
+[2016.12.07-00.08.41:387][678]LogSavePackage: Save=32.07ms
+[2016.12.07-00.08.41:387][678]LogSavePackage: Moving '../../../../project/jeuxVideo/jeux/Saved/MyThirdPersonCharacter_Auto33AF83BCC4F7F02F993FC04B07903573B.tmp' to '../../../../project/jeuxVideo/jeux/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MyThir
